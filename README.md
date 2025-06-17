@@ -61,5 +61,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Author
 
-- Website [your-website.com](https://maj-alero.github.io/flip-coin/)
-- GitHub [@your-username](https://github.com/maj-alero)
+- Website [maj-alero.github.io/flip-coin](https://maj-alero.github.io/flip-coin/)
+- GitHub [@maj-alero](https://github.com/maj-alero)
