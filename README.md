@@ -8,11 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="{https://your-demo-link.your-domain}">
-      Demo
-    </a>
-    <span> | </span>
-    <a href="{https://maj-alero.github.io/flip-coin/}">
+    <a href="https://maj-alero.github.io/flip-coin/">
       Solution
     </a>
     <span> | </span>
@@ -38,14 +34,10 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
-
-<!--
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- What have you learned/improved?
-- Your wisdom? :)
--->
+![screenshot](image.png)
+This is a simple coin flipper application that allows users to flip a virtual coin and see the result.
+The application is built using HTML, CSS, and JavaScript.
+The user can flip a coin by clicking the "Random" button, and the result is displayed.
 
 
 ### Built with
@@ -69,5 +61,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Author
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
+- Website [your-website.com](https://maj-alero.github.io/flip-coin/)
+- GitHub [@your-username](https://github.com/maj-alero)
