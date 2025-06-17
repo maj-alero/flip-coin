@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="icon" href="resources/favicon.ico" type="image/x-icon" sizes="96x96"/>
+
+    <title>Flip the coin | devChallenges.io</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div id="container">
+        <h1>Flip a Coin Game</h1>
+        <h3>Press the coin or the button to flip the coin</h3>
+        <div class="coin-container">
+            <div class="coin" id="coin-container">
+                <img src="resources/tails.svg" alt="Coin" id="coin-tail" />
+                <img src="resources/heads.svg" alt="Coin" id="coin-head" />
+                <img src="resources/shadow.svg" alt="shadow" id="shadow" />
+            </div>
+            <p id="head">Head</p>
+            <p id="tail">Tail</p>
+            <button id="flip-button">Random</button>
+        </div>
+    </div>
+   
+
+    <div class="author-info">
+      Coded by <a href="#">Amaju</a> | Challenge by
+      <a href="https://www.devchallenges.io?ref=challenge" target="_blank"
+        >devChallenges.io</a
+      >.
+    </div>
+    <script src="scripts.js">
+    </script>
+  </body>
+</html>
